@@ -45,7 +45,7 @@
 #include "amd_wdt.h"
 
 /* Module and version information */
-#define WDT_VERSION "0.1"
+#define WDT_VERSION "1.0"
 #define WDT_MODULE_NAME "AMD watchdog timer"
 #define WDT_DRIVER_NAME   WDT_MODULE_NAME ", v" WDT_VERSION
 
